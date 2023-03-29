@@ -60,7 +60,7 @@
 						}else{
 							$end = $event['termino'];
 						}
-					?>
+					?>,
 					{
 						id: '<?php echo $event['id_evento']; ?>',
 						title: '<?php echo $event['titulo']; ?>',

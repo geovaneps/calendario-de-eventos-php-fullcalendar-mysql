@@ -28,8 +28,8 @@
             </ul>
             </nav>
 <style>
-   .navbar-custom {
-    background-color: #135B7D;
+.navbar-custom {
+    background-color: #135B71;
 }
 
 .navbar-top-links>li>a{

@@ -64,13 +64,13 @@
 				  <div class="form-group">
 					<label for="inicio" class="col-sm-2 control-label">Inicio</label>
 					<div class="col-sm-10">
-					  <input type="text" name="inicio" class="form-control" id="inicio" required>
+					  <input type="datetime-local" name="inicio" class="form-control" id="inicio" required>
 					</div>
 				  </div>
 				  <div class="form-group">
 					<label for="termino" class="col-sm-2 control-label">Termino</label>
 					<div class="col-sm-10">
-					  <input type="text" name="termino" class="form-control" id="termino" required>
+					  <input type="datetime-local" name="termino" class="form-control" id="termino" required>
 					</div>
 				  </div>
 				
